@@ -1,0 +1,6 @@
+streamlit>=1.37,<2
+requests>=2.31,<3
+pandas>=2.0,<3
+plotly>=5.20,<7
+Pillow>=10.0,<13
+opencv-python-headless>=4.9,<5
